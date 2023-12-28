@@ -44,6 +44,11 @@ li {
     padding: 0 0 0 1rem;
 }
 
+a{
+    text-decoration: none;
+    color:black;
+}
+
 li:not(:last-child) {
     border-bottom: 1px solid lightblue;
 }
